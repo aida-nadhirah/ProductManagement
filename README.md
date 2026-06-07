@@ -1,38 +1,34 @@
-Product Management System
+## Product Management System
 
-Overview
-
+## Overview
 Product Management System is a web-based application developed using PHP, phpMyAdmin, HTML, CSS, and JavaScript for product listing and inventory management. The system supports product information management through database-driven functionality and interactive table features.
 
-Features
+## Features
+- Product management (Add, Update, Delete, View)
+- Inventory record management
+- Search, filtering, sorting, and pagination using DataTables
+- Excel export functionality for reporting
+- Responsive web interface
+- Database-driven product updates
 
-Product management (Add, Update, Delete, View)
-Inventory record management
-Search, filtering, sorting, and pagination using DataTables
-Excel export functionality for reporting
-Responsive web interface
-Database-driven product updates
+## Technologies Used
+- PHP
+- phpMyAdmin
+- JavaScript
+- HTML
+- CSS
+- DataTables
+- Sublime Text
 
-Technologies Used
+## Key Functionalities
+- CRUD operations
+- Product listing management
+- Dynamic data table handling
+- Product search and filtering
+- Report export to Excel
+- Database connectivity
 
-PHP
-phpMyAdmin
-JavaScript
-HTML
-CSS
-DataTables
-Sublime Text
-
-Key Functionalities
-
-CRUD operations
-Product listing management
-Dynamic data table handling
-Product search and filtering
-Report export to Excel
-Database connectivity
-
-Screenshots
+## Screenshots
 
 Homepage
 <img width="3114" height="1828" alt="Screenshot 2026-06-07 215440" src="https://github.com/user-attachments/assets/96c446ec-b8a0-4c34-b93a-fbf27805d285" />
@@ -59,9 +55,8 @@ Order Details page
 Invoice
 <img width="3110" height="1782" alt="invoice" src="https://github.com/user-attachments/assets/ee65d87e-a5df-4541-9f83-492ad3ff9b4a" />
 
-Project Status
-
+## Project Status
 Completed academic project developed to strengthen practical skills in web development, database integration, and system testing.
 
-Author
+## Author
 Aida Nadhirah
